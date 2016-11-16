@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: City_Corporation_Automation
+        psr4_prefix: City_Corporation_Automation
+        src_path: app
